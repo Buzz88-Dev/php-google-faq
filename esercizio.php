@@ -3,7 +3,7 @@
     $google_privacy = [
         [
            "question" => "",
-            "answer" => ""
+            "answer" => " "
         ]
     ]
 
